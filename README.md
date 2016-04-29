@@ -1,0 +1,2 @@
+# security
+Each and every app or a process which is been downloaded by an individual should be checked by the operating system whether any threats available in the app or the downloaded process and if any threats are found they should by removed .And their is another problem where some threats do not appear so for those cases my project depend on this issue.Generally,many big companies have more than 5000 hackers to save their data time to time.So,if we succeed in this project that could decrease the hackers count in big companies.
